@@ -1,6 +1,6 @@
 # we_chat
 
-A new Flutter project.
+flutter与安卓互调,并且打包签名
 
 ## Getting Started
 
